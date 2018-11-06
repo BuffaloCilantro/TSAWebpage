@@ -1,4 +1,5 @@
 Reguirements:
+this is wierd
 
 1.) Dress code (where to buy stuff) (instructions for tailoring) 
 2.) Subjects updated (as frequent as possible) and themes 
