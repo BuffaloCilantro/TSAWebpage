@@ -1,6 +1,6 @@
 Reguirements:
 
-• Dress code (where to buy stuff) (instructions for tailoring) 
+• Dress code (where to buy stuff) (instructions for tailoring) "\n"
 • Subjects updated (as frequent as possible) and themes 
 • Competition information about individual subjects 
 • EXTRA information (about the competitions and stuff) 
