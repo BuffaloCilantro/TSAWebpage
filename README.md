@@ -1,11 +1,11 @@
 Reguirements:
 
-• Dress code (where to buy stuff) (instructions for tailoring) "\n"
-• Subjects updated (as frequent as possible) and themes 
-• Competition information about individual subjects 
-• EXTRA information (about the competitions and stuff) 
-• How much it costs to sign up (sign up fee all online) sign up form 
-• Active fundraising goal connected to account 
+Dress code (where to buy stuff) (instructions for tailoring) 
+Subjects updated (as frequent as possible) and themes 
+Competition information about individual subjects 
+EXTRA information (about the competitions and stuff) 
+How much it costs to sign up (sign up fee all online) sign up form 
+Active fundraising goal connected to account 
 • Daily bulliten/important information 
 • Calendar and events on there updated as frequent as possible with meeting locations 
 • FAQ 
